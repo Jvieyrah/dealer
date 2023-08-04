@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * @author joao
+ * author joao.
  *
  */
 public class OperacoesVeiculos {
